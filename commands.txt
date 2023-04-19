@@ -1,0 +1,6 @@
+pip install geopy
+pip install timezonefinder
+pip install requests
+
+Note : When you run the project make sure that you are in the scripts folder.
+
